@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: [zhangjianghan2@gmail.com](zhangjianghan2@gmail.com) / +1 347 439 2304
+subtitle: zhangjianghan2@gmail.com / +1 347 439 2304
 
 profile:
   align: right
