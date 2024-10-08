@@ -14,7 +14,7 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-I'm a fourth year undergraduate student from [Tandon School of Engineering](https://engineering.nyu.edu/), [NYU](https://www.nyu.edu/).
+I'm a fourth year undergraduate student from [Tandon School of Engineering](https://engineering.nyu.edu), [NYU](https://www.nyu.edu).
 
 My research interests focus on the intersection of optimal control, numerical optimization, and machine/reinforcement learning for robotics. Specifically, I am interested in contact-rich manipulation and legged locomotion -- to enable robots to intelligently and robustly interact with complex real-world environments.
 
