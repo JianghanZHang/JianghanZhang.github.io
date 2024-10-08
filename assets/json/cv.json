@@ -8,7 +8,7 @@
       "city": "New York City",
       "countryCode": "US",
       "region": "New York"
-    },
+    }
   },
   "work": [
     {
@@ -16,17 +16,17 @@
       "position": "Java Software Engineer",
       "startDate": "2019-06-01",
       "endDate": "2019-09-01",
-      "summary": "Implemented of robust database systems and table structures for the ToTok Game Center platform, utilizing Spring Boot, JavaScript, and Linux. <br>Applied architectural methodologies to support the design and optimization of backend functionalities, contributing to scalable and efficient data management. <br>Collaborated with cross-functional teams to ensure database implementation strategies aligned with overall project objectives, enhancing system performance and user experience.",
+      "summary": "Implemented robust database systems and table structures for the ToTok Game Center platform, utilizing Spring Boot, JavaScript, and Linux. <br>Applied architectural methodologies to support the design and optimization of backend functionalities, contributing to scalable and efficient data management. <br>Collaborated with cross-functional teams to ensure database implementation strategies aligned with overall project objectives, enhancing system performance and user experience."
     }
   ],
   "education": [
     {
-      "institution": "New York Univeristy, New York City, New York",
+      "institution": "New York University, New York City, New York",
       "location": "New York City, New York",
       "area": "Mechanical Engineering",
       "studyType": "Bachelor",
       "startDate": "2021-08-01",
-      "endDate": "2025-05-01",
+      "endDate": "2025-05-01"
     }
   ],
   "projects": [
@@ -39,14 +39,14 @@
     },
     {
       "name": "Predicting 3D Action Target from 2D Egocentric Vision for HRI",
-      "summary": "Augmented the size and diversity of the EgoPAT3D dataset; Enhancing the baseline algorithm with a large pre-trained model and human prior knowledge. <br>Proposed real-world demonstrations that reflect real-world scenarios where a human and a robot share a common workspace <br>Developed an obstacle avoidance controller using DDP with customized soft constraints to avoid the predicted human action target. <br>Integrated the algorithm with the obstacle avoidance controller and successfully deployed the combined system on a UR10e for real-world human-robot interaction (HRI) demonstrations.",
+      "summary": "Augmented the size and diversity of the EgoPAT3D dataset; enhancing the baseline algorithm with a large pre-trained model and human prior knowledge. <br>Proposed real-world demonstrations that reflect real-world scenarios where a human and a robot share a common workspace. <br>Developed an obstacle avoidance controller using DDP with customized soft constraints to avoid the predicted human action target. <br>Integrated the algorithm with the obstacle avoidance controller and successfully deployed the combined system on a UR10e for real-world human-robot interaction (HRI) demonstrations.",
       "startDate": "2023-06-01",
       "endDate": "2023-09-01",
       "url": "https://ai4ce.github.io/EgoPAT3Dv2/"
     },
     {
       "name": "Contact Implicit Trajectory Optimization",
-      "summary": "Integrated the MuJoCo contact model into optimal control problems for direct trajectory planning, effectively generating a range of motion trajectories for a quadruped robot without pre-specified mode sequences. <br>Actively researching alternative contact models, including learned models, that can enhance the performance and versatility of the algorithm used for dexterous manipulation tasks."
+      "summary": "Integrated the MuJoCo contact model into optimal control problems for direct trajectory planning, effectively generating a range of motion trajectories for a quadruped robot without pre-specified mode sequences. <br>Actively researching alternative contact models, including learned models, that can enhance the performance and versatility of the algorithm used for dexterous manipulation tasks.",
       "startDate": "2024-06-01",
       "url": "https://drive.google.com/drive/folders/1lzLVwnHZeTqoZBE-xo2nWU96KRTs4tas?usp=sharing"
     }
