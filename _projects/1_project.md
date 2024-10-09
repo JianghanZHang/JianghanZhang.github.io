@@ -2,7 +2,7 @@
 layout: page
 title: Predicting 3D Action Target from 2D Egocentric Vision for HRI
 description: 
-img: assets/img/12.jpg
+img: assets/img/p1.jpg
 importance: 1
 ---
 **Can first-order methods achieve the same performance as (established) second-order methods when used at high frequency in MPC?**
@@ -15,7 +15,7 @@ importance: 1
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
+        {% include figure.liquid loading="eager" path="assets/img/p1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
