@@ -4,6 +4,7 @@ title: Predicting 3D Action Target from 2D Egocentric Vision for HRI
 description: Improved safety and efficiency in Human Robot Interaction (HRI) with a 3D human action target prediction algorithm from 2D egocentric vision, implemented real-world HRI demonstrations on a UR10e robot. (paper accepted by ICRA 2024)
 img: assets/img/p1.png
 importance: 1
+category: Research Projects
 ---
 **Can first-order methods achieve the same performance as (established) second-order methods when used at high frequency in MPC?**
 **Key words: Machine learning, HRI, Real-world Scenarios, Obstacle Avoidance, Human action prediction**
