@@ -4,6 +4,7 @@ title: Accelerated gradient descent algorithm for MPC
 description: Designed and Developed an accelerated gradient descent algorithm for real-time, high-frequency Nonlinear Model Predictive Control, achieving performance comparable to Differential Dynamic Programming (DDP) at 1 kHz. (LBR paper accpeted by UR 2024)
 img: assets/img/p2.png
 importance: 2
+category: Research Projects
 ---
 
 **Can first-order methods achieve the same performance as (established) second-order methods when used at high frequency in MPC?**
