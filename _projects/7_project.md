@@ -3,6 +3,7 @@ layout: page
 title: Predicting 3D Action Target from 2D Egocentric Vision for HRI
 description: 
 importance: 1
+img: assets/img/p1.png
 category: work
 ---
 **Can first-order methods achieve the same performance as (established) second-order methods when used at high frequency in MPC?**
