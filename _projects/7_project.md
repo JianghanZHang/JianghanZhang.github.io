@@ -2,10 +2,9 @@
 layout: page
 title: project 7
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/p1.png
 importance: 1
 category: work
-related_publications: true
 ---
 **Can first-order methods achieve the same performance as (established) second-order methods when used at high frequency in MPC?**
 **Key words: Machine learning, HRI, Real-world Scenarios, Obstacle Avoidance, Human action prediction**
