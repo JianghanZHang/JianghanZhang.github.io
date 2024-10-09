@@ -2,7 +2,7 @@
 layout: page
 title: Accelerated gradient descent algorithm for MPC
 description: 
-img: assets/img/p2.jpg
+img: assets/img/p2.png
 importance: 2
 ---
 
