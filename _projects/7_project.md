@@ -1,8 +1,7 @@
 ---
 layout: page
-title: project 7
-description: with background image
-img: assets/img/p1.png
+title: Predicting 3D Action Target from 2D Egocentric Vision for HRI
+description: 
 importance: 1
 category: work
 ---
