@@ -10,6 +10,15 @@ category: Research Projects
 
 **Key words: Machine learning, HRI, Real-world Scenarios, Obstacle Avoidance, Human action prediction**
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/p1-1.jpg" title="p1-1" class="img-fluid rounded z-depth-1" %}
+    </div>
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/p1-2.jpg" title="p1-2" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
+
 - Proposed HRI demonstrations, showcasing real-world scenarios where a human and a robot share a common workspace.
 - Developed an obstacle avoidance controller using DDP with customized soft constraints to avoid the predicted human action target.
 - Integrated the algorithm with controllers for obstacle avoidance and reaching, then successfully deployed the combined system on a UR10e for real-world human-robot interaction (HRI) demonstrations.
